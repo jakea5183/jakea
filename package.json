@@ -1,0 +1,29 @@
+{
+  "name": "jakea",
+  "version": "1.0.0",
+  "description": "Jakea is a Node.js module for calculating solar-related parameters based on geographic location and time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakea5183/jakea"
+  },
+  "dependencies": {
+	  "elizabethmiller-v2": "1.0.0",
+"ls-v1-func": "1.0.0",
+"selivanovpetr": "1.0.0",
+"glushkivan": "1.0.0",
+"sharonhall-config": "1.0.0",
+"spleef-mod": "1.0.0",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakea5183/jakea/issues"
+  },
+  "homepage": "https://github.com/jakea5183/jakea#readme"
+}
